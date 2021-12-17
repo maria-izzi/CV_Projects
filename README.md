@@ -1,4 +1,4 @@
-# CV_Projects
+# CV Projects
 Collection of projects developed in Computer Vision Class (2019-2020). Developed using C++.
 
 Project 1: Draw a triangle at any randomly chosen location, using Bresenham's algorithm. Inscribe and circumscribe a circle, and draw the 9-point circle.
